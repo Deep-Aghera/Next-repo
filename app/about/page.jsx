@@ -1,5 +1,11 @@
 import React from 'react'
 
+
+export const metadata = {
+  title : 'About Traversy',
+  
+}
+
 const AboutPage = () => {
   return (
     <div>
